@@ -773,9 +773,9 @@ SOFTWARE.
 
 For questions, suggestions, or collaboration opportunities:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: shashankkatta2707@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/shashank-katta-30b844318/)
+- **GitHub**: [Your GitHub Profile](https://github.com/shashank4247)
 - **Project Link**: [https://github.com/yourusername/agriTrade_analyst](https://github.com/yourusername/agriTrade_analyst)
 
 ---
