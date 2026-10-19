@@ -604,46 +604,45 @@ After calculating profit:
 
 ### Dashboard Overview
 *[Screenshot placeholder - Upload your main dashboard image here]*
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/10517815-1b39-4f95-a56b-519e59c8082a" />
 
 ---
 
 ### Financial Calculator
 *[Screenshot placeholder - Upload profit calculator interface]*
+<img width="1917" height="1092" alt="image" src="https://github.com/user-attachments/assets/48dd24f3-0d96-4768-b183-d694a6caf3f9" />
 
 ---
 
 ### Market Arbitrage Finder
-*[Screenshot placeholder - Upload arbitrage comparison view]*
+<img width="1107" height="546" alt="image" src="https://github.com/user-attachments/assets/b64a4515-9ec5-4dfe-9de7-cd28e4f802ad" />
 
 ---
 
 ### 30-Day Forecast
-*[Screenshot placeholder - Upload forecast chart/table]*
+<img width="1032" height="1076" alt="image" src="https://github.com/user-attachments/assets/f7dbb375-ebf6-49c1-b9b1-29a21147a670" />
 
 ---
 
 ### Weather Advisory
-*[Screenshot placeholder - Upload weather widget]*
+<img width="1073" height="347" alt="image" src="https://github.com/user-attachments/assets/64307c14-f215-424b-9573-ab057d015ad7" />
 
 ---
 
 ### Credit Score Display
-*[Screenshot placeholder - Upload credit score card]*
+<img width="1110" height="478" alt="image" src="https://github.com/user-attachments/assets/620e4564-aee2-486b-8cbb-9170730457c7" />
 
 ---
 
-### Voice Assistant
-*[Screenshot placeholder - Upload voice interface]*
-
----
 
 ### Disease Detection Results
-*[Screenshot placeholder - Upload disease detection output]*
+<img width="1585" height="1007" alt="image" src="https://github.com/user-attachments/assets/945255b9-174c-40e1-ba9a-d3e45bd87188" />
 
 ---
 
 ### Chatbot Interface
 *[Screenshot placeholder - Upload chatbot conversation]*
+<img width="1166" height="892" alt="image" src="https://github.com/user-attachments/assets/8711ac82-1609-4294-b33e-4645e9a708fc" />
 
 ---
 
